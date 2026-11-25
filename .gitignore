@@ -1,0 +1,7 @@
+# conversion state: holds note titles and paths, never commit
+durum/
+
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
